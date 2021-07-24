@@ -1,0 +1,35 @@
+Matplotlib : Line:
+Linestyle:
+
+
+You can use the keyword argument linestyle, or shorter ls, to change the style of the plotted line.
+
+        plt.plot(ypoints, linestyle = 'dashed')
+
+
+**********************************************************************************************************
+Shorter Syntax:
+
+
+The line style can be written in a shorter syntax:
+linestyle can be written as ls.
+dotted can be written as :.
+dashed can be written as --.
+
+
+'solid' (default)   	'-'
+'dotted' 	            ':'
+'dashed' 	            '--'
+'dashdot' 	            '-.'
+'None' 	                '' or ' '
+
+**********************************************************************************************************
+
+Line Color
+
+You can use the keyword argument color or the shorter c to set the color of the line.
+
+**********************************************************************************************************
+Line Width
+
+You can use the keyword argument linewidth or the shorter lw to change the width of the line.

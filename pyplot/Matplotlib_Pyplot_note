@@ -1,0 +1,6 @@
+Pyplot
+
+Most of the Matplotlib utilities lies under the pyplot submodule, and are usually imported under the plt alias:
+
+            import matplotlib.pyplot as plt
+

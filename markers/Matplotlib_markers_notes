@@ -1,0 +1,77 @@
+Markers:
+
+You can use the keyword argument marker to emphasize each point with a specified marker.
+
+************************************************************************************************
+
+Maker Reference:
+'o' 	Circle
+'*' 	Star
+'.' 	Point
+',' 	Pixel
+'x' 	X
+'X' 	X (filled)
+'+' 	Plus
+'P' 	Plus (filled)
+'s' 	Square
+'D' 	Diamond
+'d' 	Diamond (thin)
+'p' 	Pentagon
+'H' 	Hexagon
+'h' 	Hexagon
+'v' 	Triangle Down
+'^' 	Triangle Up
+'<' 	Triangle Left
+'>' 	Triangle Right
+'1' 	Tri Down
+'2' 	Tri Up
+'3' 	Tri Left
+'4' 	Tri Right
+'|' 	Vline
+'_' 	Hline
+
+
+************************************************************************************************
+
+Format Strings:
+
+You can use also use the shortcut string notation parameter to specify the marker.
+This parameter is also called fmt, and is written with this syntax.
+
+        marker|line|color
+
+************************************************************************************************
+
+Line Reference:
+
+'-' 	Solid line
+':' 	Dotted line
+'--' 	Dashed line
+'-.' 	Dashed/dotted line
+
+************************************************************************************************
+
+Color Reference:
+
+'r' 	Red
+'g' 	Green
+'b' 	Blue
+'c' 	Cyan
+'m' 	Magenta
+'y' 	Yellow
+'k' 	Black
+'w' 	White
+
+
+************************************************************************************************
+
+Marker Size:
+
+You can use the keyword argument markersize or the shorter version, ms to set the size of the markers.
+
+************************************************************************************************
+
+Marker Color:
+
+You can use the keyword argument markeredgecolor or the shorter mec to set the color of the edge of the markers.
+
