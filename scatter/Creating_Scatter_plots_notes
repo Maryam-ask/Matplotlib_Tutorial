@@ -1,0 +1,32 @@
+Creating Scatter Plots
+
+With Pyplot, you can use the scatter() function to draw a scatter plot.
+The scatter() function plots one dot for each observation. It needs two arrays of the same length,
+one for the values of the x-axis, and one for values on the y-axis.
+
+
+
+Note!!!: The two plots are plotted with two different colors, by default blue and orange.
+********************************************************************
+Colors:
+
+You can set your own color for each scatter plot with the color or the c argument.
+
+********************************************************************
+Color Each Dot:
+
+You can even set a specific color for each dot by using an array of colors as value for the c argument.
+
+!!! You cannot use the color argument for this, only the c argument.
+
+********************************************************************
+Size:
+
+You can change the size of the dots with the s argument.
+Just like colors, make sure the array for sizes has the same length as the arrays for the x- and y-axis.
+
+********************************************************************
+Alpha:
+
+You can adjust the transparency of the dots with the alpha argument.
+Just like colors, make sure the array for sizes has the same length as the arrays for the x- and y-axis.
