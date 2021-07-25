@@ -1,0 +1,18 @@
+Create Labels for a Plot:
+
+Label:
+With Pyplot, you can use the xlabel() and ylabel() functions to set a label for the x- and y-axis.
+
+Title:
+With Pyplot, you can use the title() function to set a title for the plot.
+
+**************************************************************************
+Set Font Properties for Title and Labels:
+
+You can use the fontdict parameter in xlabel(), ylabel(), and title() to set font properties for the title and labels.
+
+**************************************************************************
+position the Title:
+
+You can use the loc parameter in title() to position the title.
+Legal values are: 'left', 'right', and 'center'. Default value is 'center'.
