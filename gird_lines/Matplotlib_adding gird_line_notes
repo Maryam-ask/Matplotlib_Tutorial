@@ -1,0 +1,15 @@
+Add Grid Lines to a Plot:
+
+With Pyplot, you can use the grid() function to add grid lines to the plot.
+
+**************************************************************************************
+
+Specify Which Grid Lines to Display:
+
+You can use the axis parameter in the grid() function to specify which grid lines to display.
+Legal values are: 'x', 'y', and 'both'. Default value is 'both'.
+
+**************************************************************************************
+Set Line Properties for the Grid:
+
+You can also set the line properties of the grid, like this: grid(color = 'color', linestyle = 'linestyle', linewidth = number).
